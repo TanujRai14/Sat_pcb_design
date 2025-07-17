@@ -65,6 +65,14 @@ This repository contains the PCB design files and documentation for a Can Satell
 ## Photos
 <img width="693" height="817" alt="image" src="https://github.com/user-attachments/assets/e986be45-0f04-4dc2-97ea-e7dea023d45b" />
 <img width="666" height="817" alt="image" src="https://github.com/user-attachments/assets/16119886-9e38-499b-9a23-71e7e7d9d074" />
+<img width="690" height="810" alt="image" src="https://github.com/user-attachments/assets/35a6e1bc-8a4f-4c29-b0e2-173b5fdd95f4" />
+<img width="819" height="898" alt="image" src="https://github.com/user-attachments/assets/5c9315da-99de-4c1f-8be4-c15683c067f8" />
+![WhatsApp Image 2025-07-13 at 00 39 41_991bdfa5](https://github.com/user-attachments/assets/97445bfa-3315-45eb-a92b-babf78c775d7)
+<img width="596" height="791" alt="image" src="https://github.com/user-attachments/assets/11e9ce9c-6a6b-4b09-abed-a46510eb62d7" />
+
+
+
+
 
 
 
