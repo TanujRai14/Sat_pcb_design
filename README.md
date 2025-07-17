@@ -62,3 +62,9 @@ This repository contains the PCB design files and documentation for a Can Satell
 - Dedicated inner layers for ground and power to minimize noise
 - Suitable for CubeSat, CanSat, and other small satellite or experimental payloads
 
+## Photos
+<img width="693" height="817" alt="image" src="https://github.com/user-attachments/assets/e986be45-0f04-4dc2-97ea-e7dea023d45b" />
+<img width="666" height="817" alt="image" src="https://github.com/user-attachments/assets/16119886-9e38-499b-9a23-71e7e7d9d074" />
+
+
+
